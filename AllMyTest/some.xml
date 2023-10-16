@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+    <LidarModel>LR</LidarModel>
+    <LidarSerial>INF2PT001</LidarSerial>
+    <PlaneNum>CW-25E</PlaneNum>
+    <IMUType>KVH-1750</IMUType>
+    <IMUDataRate>200</IMUDataRate>
+    <Install>Reverse</Install>
+    
+    <LiDAR2IMUTransX>-0.011548</LiDAR2IMUTransX>
+    <LiDAR2IMUTransY>0</LiDAR2IMUTransY>
+    <LiDAR2IMUTransZ>-0.19085</LiDAR2IMUTransZ>
+    <LiDAR2IMURotX>180</LiDAR2IMURotX>
+    <LiDAR2IMURotY>0</LiDAR2IMURotY>
+    <LiDAR2IMURotZ>90</LiDAR2IMURotZ>
+    
+    <IMU2BodyRotX>90</IMU2BodyRotX>
+    <IMU2BodyRotY>0</IMU2BodyRotY>
+    <IMU2BodyRotZ>180</IMU2BodyRotZ>
+    
+	
+	
+	
+	
+    <CheckRotX>1133.04474179</CheckRotX>
+    <CheckRotY>1465.90082029</CheckRotY>
+    <CheckRotZ>1798.96929765</CheckRotZ>
+    <Check2RotX>0</Check2RotX>
+    <Check2RotY>0</Check2RotY>
+    <Check2RotZ>0</Check2RotZ>
+    
+    <IMU2AntenaArmX>0.057</IMU2AntenaArmX>
+    <IMU2AntenaArmY>-0.33785</IMU2AntenaArmY>
+    <IMU2AntenaArmZ>0.1455</IMU2AntenaArmZ>
+    <Body2IMURotX>90</Body2IMURotX>
+    <Body2IMURotY>0</Body2IMURotY>
+    <Body2IMURotZ>180</Body2IMURotZ>
+
+    <Cam2IMUArmX>-0.01155</Cam2IMUArmX>
+    <Cam2IMUArmY>0.0275</Cam2IMUArmY>
+    <Cam2IMUArmZ>0.09477</Cam2IMUArmZ>
+    <Cam2IMURotX>-90</Cam2IMURotX>
+    <Cam2IMURotY>0</Cam2IMURotY>
+    <Cam2IMURotZ>180</Cam2IMURotZ>
+    
+    <FocalLength>20.97</FocalLength>
+    <PhotoWidth>7952</PhotoWidth>
+    <PhotoHeight>5304</PhotoHeight>
+    <PhotoPixLength>0.0044014</PhotoPixLength>
+    <CameraK1>-2.811729E-009</CameraK1>
+    <CameraK2>8.870837E-017</CameraK2>
+    <CameraK3>-9.069111E-026</CameraK3>
+    <CameraP1>-3.411991E-007</CameraP1>
+    <CameraP2>-2.214013E-007</CameraP2>
+    <CameraS0xPix>-6.7000000</CameraS0xPix>
+    <CameraS0yPix>-10.8000000</CameraS0yPix>
+    <CameraRotType>1</CameraRotType>
+    <CameraRotX>-90</CameraRotX>
+    <CameraRotY>0</CameraRotY>
+    <CameraRotZ>180</CameraRotZ>
+    <CheckCameraRotX>0.09</CheckCameraRotX>
+    <CheckCameraRotY>0.6052</CheckCameraRotY>
+    <CheckCameraRotZ>-0.1733</CheckCameraRotZ>
+    <CheckCameraArmX>0</CheckCameraArmX>
+    <CheckCameraArmY>0</CheckCameraArmY>
+    <CheckCameraArmZ>0</CheckCameraArmZ>
+</root>

@@ -1,0 +1,516 @@
+half track wth from center:1.7
+overlay frame count:20
+2020-07-20 18:00:05, frameID:20, complex obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:8 hgt:0.0428357 wth:0.3 len:0.299999 tailLen:0 spd:0
+2020-07-20 18:00:05, frameID:21, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:15 hgt:0.0771623 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:05, frameID:21, muddy obj, type:5 level:0 pos_x:-1.3 pox_y:28.5 reported level:0 pn:6 hgt:0.0928903 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:05, frameID:22, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:16 hgt:0.0771623 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:05, frameID:22, muddy obj, type:5 level:0 pos_x:-1.3 pox_y:28.5 reported level:0 pn:6 hgt:0.0928903 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:06, frameID:23, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:15 hgt:0.0771623 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:06, frameID:23, muddy obj, type:5 level:0 pos_x:-1.3 pox_y:28.5 reported level:0 pn:6 hgt:0.0928903 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:06, frameID:24, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:17 hgt:0.0927858 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:06, frameID:25, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:15 hgt:0.0927858 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:06, frameID:26, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:17 hgt:0.0927858 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:07, frameID:27, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:16 hgt:0.0922985 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:07, frameID:28, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:16 hgt:0.0922985 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:07, frameID:29, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:15 hgt:0.0922985 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:07, frameID:30, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:15 hgt:0.0922985 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:08, frameID:31, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:14 hgt:0.0922985 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:08, frameID:32, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:14 hgt:0.0922985 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:08, frameID:33, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:15 hgt:0.0922985 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:08, frameID:34, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:15 hgt:0.0922985 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:09, frameID:35, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:14 hgt:0.0922985 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:09, frameID:36, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:13 hgt:0.0922985 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:09, frameID:37, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:14 hgt:0.0922985 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:09, frameID:38, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:13 hgt:0.0922985 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:10, frameID:39, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:12 hgt:0.0922985 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:10, frameID:41, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:11 hgt:0.0922985 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:10, frameID:42, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:10 hgt:0.0922985 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:11, frameID:43, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:10 hgt:0.0922985 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:11, frameID:44, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:8 hgt:0.0871129 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:11, frameID:45, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:8 hgt:0.0871129 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:11, frameID:46, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:6 hgt:0.0843539 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:12, frameID:47, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:6 hgt:0.0843539 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:12, frameID:48, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:7 hgt:0.0843539 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:12, frameID:49, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:7 hgt:0.0843539 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:12, frameID:50, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:7 hgt:0.0843539 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:13, frameID:51, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:9 hgt:0.0883512 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:13, frameID:52, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:10 hgt:0.0883512 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:13, frameID:53, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:8 hgt:0.0883512 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:14, frameID:54, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:8 hgt:0.0883512 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:14, frameID:55, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:7 hgt:0.0883512 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:14, frameID:56, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:7 hgt:0.0883512 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:14, frameID:57, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:6 hgt:0.0883512 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:15, frameID:58, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:7 hgt:0.0883512 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:15, frameID:59, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:6 hgt:0.0675697 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:15, frameID:61, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:8 hgt:0.0785475 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:16, frameID:62, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:9 hgt:0.0785475 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:16, frameID:63, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:9 hgt:0.0785475 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:16, frameID:64, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:9 hgt:0.0785475 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:16, frameID:65, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:10 hgt:0.0785475 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:17, frameID:66, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:10 hgt:0.0785475 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:17, frameID:67, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:11 hgt:0.0785475 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:17, frameID:68, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:9 hgt:0.0785475 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:17, frameID:69, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:10 hgt:0.0785475 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:18, frameID:70, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:10 hgt:0.0785475 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:18, frameID:71, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:9 hgt:0.070549 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:18, frameID:72, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:8 hgt:0.070549 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:18, frameID:73, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:9 hgt:0.070549 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:19, frameID:74, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:9 hgt:0.070549 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:19, frameID:75, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:9 hgt:0.070549 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:19, frameID:76, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:9 hgt:0.070549 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:19, frameID:77, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:10 hgt:0.070549 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:20, frameID:78, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:9 hgt:0.0686359 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:20, frameID:79, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:9 hgt:0.0686359 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:20, frameID:80, complex obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:12 hgt:0.146817 wth:0.3 len:0.299999 tailLen:0 spd:0
+2020-07-20 18:00:20, frameID:81, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:9 hgt:0.0419006 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:21, frameID:82, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:8 hgt:0.0419006 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:21, frameID:83, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:8 hgt:0.0419006 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:21, frameID:84, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:9 hgt:0.0419006 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:21, frameID:85, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:8 hgt:0.0419006 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:22, frameID:86, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:8 hgt:0.0419006 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:22, frameID:87, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:7 hgt:0.0419006 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:22, frameID:88, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:9 hgt:0.0518193 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:22, frameID:89, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:8 hgt:0.0518193 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:23, frameID:90, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:8 hgt:0.0518193 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:23, frameID:91, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:8 hgt:0.0518193 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:23, frameID:92, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:9 hgt:0.0551763 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:23, frameID:93, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:8 hgt:0.0551763 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:24, frameID:94, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:8 hgt:0.0551763 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:24, frameID:95, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:10 hgt:0.0551763 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:24, frameID:96, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:10 hgt:0.0551763 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:24, frameID:97, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:10 hgt:0.0768485 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:25, frameID:98, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:10 hgt:0.0768485 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:25, frameID:99, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:11 hgt:0.0768485 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:25, frameID:100, complex obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:20 hgt:0.151809 wth:0.3 len:0.299999 tailLen:0 spd:0
+2020-07-20 18:00:25, frameID:101, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:9 hgt:0.0768485 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:26, frameID:102, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:11 hgt:0.0768485 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:26, frameID:103, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:12 hgt:0.0768485 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:26, frameID:104, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:11 hgt:0.0768485 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:26, frameID:105, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:11 hgt:0.0768485 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:27, frameID:106, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:12 hgt:0.0768485 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:27, frameID:107, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:12 hgt:0.0768485 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:27, frameID:108, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:10 hgt:0.0768433 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:27, frameID:109, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:10 hgt:0.0768433 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:28, frameID:110, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:12 hgt:0.0768433 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:28, frameID:111, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:12 hgt:0.0768433 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:28, frameID:112, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:11 hgt:0.0768433 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:29, frameID:113, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:12 hgt:0.0768433 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:29, frameID:114, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:14 hgt:0.0768433 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:29, frameID:115, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:12 hgt:0.0764232 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:29, frameID:116, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0764232 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:30, frameID:117, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:14 hgt:0.0704646 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:30, frameID:118, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:15 hgt:0.0704646 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:30, frameID:119, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:14 hgt:0.0704646 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:30, frameID:120, complex obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:21 hgt:0.149848 wth:0.3 len:0.299999 tailLen:0 spd:0
+2020-07-20 18:00:31, frameID:121, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:17 hgt:0.0704646 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:31, frameID:122, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:16 hgt:0.0685534 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:31, frameID:123, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:15 hgt:0.0685534 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:31, frameID:124, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:16 hgt:0.0685534 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:32, frameID:125, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:17 hgt:0.0685534 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:32, frameID:126, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:17 hgt:0.0685534 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:32, frameID:127, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:17 hgt:0.0685534 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:32, frameID:128, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:19 hgt:0.0685534 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:33, frameID:129, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:20 hgt:0.0685534 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:33, frameID:130, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:18 hgt:0.0632863 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:33, frameID:131, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:18 hgt:0.0632863 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:33, frameID:132, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:19 hgt:0.0632863 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:34, frameID:133, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:18 hgt:0.0632863 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:34, frameID:134, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:16 hgt:0.0632863 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:34, frameID:135, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:17 hgt:0.0632863 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:34, frameID:136, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:16 hgt:0.0632863 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:35, frameID:137, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:15 hgt:0.0632863 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:35, frameID:138, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:14 hgt:0.0632863 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:35, frameID:139, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:15 hgt:0.0632863 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:35, frameID:140, complex obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:20 hgt:0.144248 wth:0.3 len:0.299999 tailLen:0 spd:0
+2020-07-20 18:00:36, frameID:141, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0450649 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:36, frameID:142, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0450649 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:36, frameID:143, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:15 hgt:0.0586777 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:36, frameID:144, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:14 hgt:0.0586777 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:37, frameID:145, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0586777 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:37, frameID:146, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0586777 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:37, frameID:147, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0586777 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:37, frameID:148, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:12 hgt:0.0724649 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:38, frameID:149, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:12 hgt:0.0724649 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:38, frameID:150, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:14 hgt:0.0724649 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:38, frameID:151, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0724649 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:38, frameID:152, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:12 hgt:0.0724649 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:39, frameID:153, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0724649 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:39, frameID:154, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0724649 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:39, frameID:155, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0724649 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:39, frameID:156, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0724649 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:40, frameID:157, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0724649 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:40, frameID:158, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0724649 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:40, frameID:159, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0775666 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:40, frameID:160, complex obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:24 hgt:0.145919 wth:0.3 len:0.299999 tailLen:0 spd:0
+2020-07-20 18:00:41, frameID:161, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0775666 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:41, frameID:162, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0775666 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:41, frameID:163, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:11 hgt:0.075881 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:41, frameID:164, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.075881 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:42, frameID:165, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:14 hgt:0.075881 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:42, frameID:166, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.075881 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:42, frameID:167, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.075881 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:43, frameID:168, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.075881 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:43, frameID:169, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:14 hgt:0.075881 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:43, frameID:170, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:12 hgt:0.0727158 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:43, frameID:171, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0727158 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:44, frameID:172, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0727158 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:44, frameID:173, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0727158 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:44, frameID:174, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0727158 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:44, frameID:175, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0727158 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:45, frameID:176, normal obj, type:2 level:1 pos_x:0.8 pox_y:36 reported level:1 pn:192 hgt:0.736083 wth:0.9 len:0.600002 tailLen:0.299999 spd:1.3195 rate:0.733616
+2020-07-20 18:00:45, frameID:176, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:14 hgt:0.0727158 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:45, frameID:177, normal obj, type:2 level:1 pos_x:0.8 pox_y:36.3 reported level:1 pn:306 hgt:0.713442 wth:0.9 len:0.599998 tailLen:0.299999 spd:1.3195 rate:0.733616
+2020-07-20 18:00:45, frameID:177, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:14 hgt:0.0727158 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:45, frameID:177, muddy obj, type:5 level:0 pos_x:1.1 pox_y:36.3 reported level:3 pn:9 hgt:0.0650311 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:45, frameID:178, normal obj, type:2 level:1 pos_x:0.5 pox_y:36.3 reported level:1 pn:306 hgt:0.705812 wth:0.9 len:0.899998 tailLen:0.724266 spd:0 rate:1.14761
+2020-07-20 18:00:45, frameID:178, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:14 hgt:0.0727158 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:45, frameID:178, muddy obj, type:5 level:0 pos_x:0.8 pox_y:36.3 reported level:3 pn:18 hgt:0.0753441 wth:0.6 len:0.599998 tailLen:0spd:0
+2020-07-20 18:00:45, frameID:179, normal obj, type:2 level:1 pos_x:0.5 pox_y:36.6 reported level:1 pn:178 hgt:0.67729 wth:0.9 len:0.599998 tailLen:0.724266 spd:0 rate:1.14761
+2020-07-20 18:00:45, frameID:179, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0684085 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:45, frameID:179, muddy obj, type:5 level:0 pos_x:0.8 pox_y:36.3 reported level:3 pn:21 hgt:0.186079 wth:0.6 len:0.599998 tailLen:0spd:0
+2020-07-20 18:00:46, frameID:180, normal obj, type:2 level:1 pos_x:0.200001 pox_y:36.9 reported level:1 pn:80 hgt:0.642205 wth:1.2 len:0.599998 tailLen:0.724266 spd:0 rate:1.14761
+2020-07-20 18:00:46, frameID:180, complex obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:16 hgt:0.144977 wth:0.3 len:0.299999 tailLen:0 spd:0
+2020-07-20 18:00:46, frameID:181, normal obj, type:2 level:1 pos_x:0.200001 pox_y:36.9 reported level:1 pn:45 hgt:0.372232 wth:0.599999 len:0.599998 tailLen:0.724266 spd:0 rate:1.14761
+2020-07-20 18:00:46, frameID:181, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0684085 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:46, frameID:181, muddy obj, type:5 level:0 pos_x:0.5 pox_y:36.3 reported level:3 pn:40 hgt:0.448729 wth:0.9 len:1.2 tailLen:0spd:0
+2020-07-20 18:00:46, frameID:182, normal obj, type:2 level:1 pos_x:-0.0999994 pox_y:37.2 reported level:1 pn:56 hgt:0.603094 wth:0.899999 len:0.599998 tailLen:0.724266 spd:0 rate:1.14761
+2020-07-20 18:00:46, frameID:182, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0632458 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:46, frameID:182, muddy obj, type:5 level:0 pos_x:-0.0999994 pox_y:36.3 reported level:3 pn:57 hgt:0.448729 wth:1.5 len:1.5 tailLen:0spd:0
+2020-07-20 18:00:46, frameID:183, normal obj, type:2 level:1 pos_x:-0.0999994 pox_y:37.5 reported level:1 pn:38 hgt:0.832474 wth:0.6 len:0.299999 tailLen:2.22426 spd:1.17806 rate:0.216222
+2020-07-20 18:00:46, frameID:183, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:14 hgt:0.0632458 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:46, frameID:183, muddy obj, type:5 level:0 pos_x:-0.0999994 pox_y:36.3 reported level:3 pn:79 hgt:0.455572 wth:1.5 len:1.5 tailLen:0spd:0
+2020-07-20 18:00:47, frameID:184, normal obj, type:2 level:1 pos_x:-0.4 pox_y:37.5 reported level:1 pn:40 hgt:0.882765 wth:0.6 len:0.299999 tailLen:2.22426 spd:1.17806 rate:0.216222
+2020-07-20 18:00:47, frameID:184, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.061789 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:47, frameID:184, muddy obj, type:5 level:0 pos_x:-0.0999994 pox_y:36.3 reported level:3 pn:95 hgt:0.455572 wth:1.5 len:1.5 tailLen:0spd:0
+2020-07-20 18:00:47, frameID:185, normal obj, type:2 level:1 pos_x:-0.7 pox_y:37.5 reported level:1 pn:56 hgt:0.873368 wth:0.9 len:0.600002 tailLen:2.22426 spd:1.17806 rate:0.216222
+2020-07-20 18:00:47, frameID:185, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:12 hgt:0.061789 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:47, frameID:185, muddy obj, type:5 level:0 pos_x:-0.0999994 pox_y:36.3 reported level:3 pn:95 hgt:0.455572 wth:1.5 len:1.5 tailLen:0spd:0
+2020-07-20 18:00:47, frameID:186, normal obj, type:2 level:1 pos_x:-1 pox_y:37.5 reported level:1 pn:40 hgt:0.825988 wth:0.6 len:0.600002 tailLen:3.12426 spd:0 rate:0.435844
+2020-07-20 18:00:47, frameID:186, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.061789 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:47, frameID:186, muddy obj, type:5 level:0 pos_x:-0.0999994 pox_y:36.3 reported level:3 pn:95 hgt:0.455572 wth:1.5 len:1.5 tailLen:0spd:0
+2020-07-20 18:00:47, frameID:187, normal obj, type:2 level:1 pos_x:-1.3 pox_y:37.5 reported level:1 pn:54 hgt:0.83081 wth:0.899999 len:0.900002 tailLen:3.12426 spd:0 rate:0.435844
+2020-07-20 18:00:47, frameID:187, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:15 hgt:0.0748205 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:47, frameID:187, muddy obj, type:5 level:0 pos_x:-0.0999994 pox_y:36.3 reported level:3 pn:95 hgt:0.455572 wth:1.5 len:1.5 tailLen:0spd:0
+2020-07-20 18:00:48, frameID:188, normal obj, type:2 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:75 hgt:0.895267 wth:1.2 len:0.600002 tailLen:3.12426 spd:0 rate:0.435844
+2020-07-20 18:00:48, frameID:188, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:15 hgt:0.0748205 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:48, frameID:188, muddy obj, type:5 level:0 pos_x:-0.0999994 pox_y:36.3 reported level:3 pn:95 hgt:0.455572 wth:1.5 len:1.5 tailLen:0spd:0
+2020-07-20 18:00:48, frameID:189, normal obj, type:2 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:85 hgt:0.874068 wth:1.2 len:0.600002 tailLen:3.12426 spd:0 rate:0.435844
+2020-07-20 18:00:48, frameID:189, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0748205 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:48, frameID:189, muddy obj, type:5 level:0 pos_x:-0.0999994 pox_y:36.3 reported level:3 pn:95 hgt:0.455572 wth:1.5 len:1.5 tailLen:0spd:0
+2020-07-20 18:00:48, frameID:190, normal obj, type:2 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:93 hgt:0.907338 wth:1.2 len:0.600002 tailLen:3.12426 spd:0 rate:0.435844
+2020-07-20 18:00:48, frameID:190, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:15 hgt:0.0748205 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:48, frameID:190, muddy obj, type:5 level:0 pos_x:-0.0999994 pox_y:36.3 reported level:3 pn:95 hgt:0.455572 wth:1.5 len:1.5 tailLen:0spd:0
+2020-07-20 18:00:48, frameID:191, normal obj, type:2 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:75 hgt:0.901577 wth:0.899999 len:0.600002 tailLen:3.12426 spd:0 rate:0.435844
+2020-07-20 18:00:48, frameID:191, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:14 hgt:0.0730143 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:48, frameID:191, muddy obj, type:5 level:0 pos_x:-0.0999994 pox_y:36.3 reported level:3 pn:95 hgt:0.455572 wth:1.5 len:1.5 tailLen:0spd:0
+2020-07-20 18:00:49, frameID:192, normal obj, type:2 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:71 hgt:0.868126 wth:1.2 len:0.600002 tailLen:3.12426 spd:0 rate:0.435844
+2020-07-20 18:00:49, frameID:192, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:14 hgt:0.0730143 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:49, frameID:192, muddy obj, type:5 level:0 pos_x:-0.0999994 pox_y:36.3 reported level:3 pn:95 hgt:0.455572 wth:1.5 len:1.5 tailLen:0spd:0
+2020-07-20 18:00:49, frameID:193, normal obj, type:2 level:1 pos_x:-1.3 pox_y:37.8 reported level:1 pn:63 hgt:0.784212 wth:0.899999 len:0.299999 tailLen:3.12426 spd:0 rate:0.435844
+2020-07-20 18:00:49, frameID:193, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0730143 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:49, frameID:193, muddy obj, type:5 level:0 pos_x:-0.0999994 pox_y:36.3 reported level:3 pn:95 hgt:0.455572 wth:1.5 len:1.5 tailLen:0spd:0
+2020-07-20 18:00:49, frameID:194, normal obj, type:2 level:1 pos_x:-1 pox_y:37.5 reported level:1 pn:57 hgt:0.881439 wth:0.9 len:0.600002 tailLen:3.12426 spd:0 rate:0.435844
+2020-07-20 18:00:49, frameID:194, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0730143 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:49, frameID:194, muddy obj, type:5 level:0 pos_x:-0.0999994 pox_y:36.3 reported level:3 pn:95 hgt:0.455572 wth:1.5 len:1.5 tailLen:0spd:0
+2020-07-20 18:00:49, frameID:195, normal obj, type:2 level:1 pos_x:-1 pox_y:37.8 reported level:1 pn:54 hgt:0.742382 wth:0.9 len:0.299999 tailLen:3.12426 spd:0 rate:0.435844
+2020-07-20 18:00:49, frameID:195, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:12 hgt:0.0730143 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:49, frameID:195, muddy obj, type:5 level:0 pos_x:-0.0999994 pox_y:36.3 reported level:3 pn:95 hgt:0.455572 wth:1.5 len:1.5 tailLen:0spd:0
+2020-07-20 18:00:50, frameID:196, normal obj, type:2 level:1 pos_x:-0.7 pox_y:37.5 reported level:1 pn:57 hgt:0.736586 wth:0.6 len:0.600002 tailLen:3.12426 spd:0 rate:0.435844
+2020-07-20 18:00:50, frameID:196, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:11 hgt:0.0730143 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:50, frameID:196, muddy obj, type:5 level:0 pos_x:-0.0999994 pox_y:36.3 reported level:3 pn:95 hgt:0.533016 wth:1.5 len:1.5 tailLen:0spd:0
+2020-07-20 18:00:50, frameID:197, normal obj, type:2 level:1 pos_x:-0.7 pox_y:37.5 reported level:1 pn:48 hgt:0.811354 wth:0.9 len:0.600002 tailLen:2.22426 spd:1.17806 rate:0.216222
+2020-07-20 18:00:50, frameID:197, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:10 hgt:0.0730143 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:50, frameID:197, muddy obj, type:5 level:1 pos_x:-0.0999994 pox_y:36.6 reported level:3 pn:85 hgt:0.533016 wth:1.2 len:1.2 tailLen:0spd:0
+2020-07-20 18:00:50, frameID:198, normal obj, type:2 level:1 pos_x:-0.4 pox_y:37.2 reported level:1 pn:35 hgt:0.870456 wth:0.6 len:0.599998 tailLen:0.724266 spd:0 rate:1.14761
+2020-07-20 18:00:50, frameID:198, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:10 hgt:0.0730143 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:50, frameID:198, muddy obj, type:2 level:1 pos_x:-0.0999994 pox_y:36.6 reported level:3 pn:87 hgt:0.533016 wth:1.2 len:1.2 tailLen:0spd:0
+2020-07-20 18:00:50, frameID:199, normal obj, type:2 level:1 pos_x:-0.0999994 pox_y:37.2 reported level:1 pn:33 hgt:0.848051 wth:0.6 len:0.599998 tailLen:0.724266 spd:0 rate:1.14761
+2020-07-20 18:00:50, frameID:199, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:10 hgt:0.0730143 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:50, frameID:199, muddy obj, type:2 level:1 pos_x:-0.0999994 pox_y:36.9 reported level:3 pn:101 hgt:0.533016 wth:0.899999 len:0.899998 tailLen:0.299999spd:0.0620096
+2020-07-20 18:00:51, frameID:200, normal obj, type:2 level:1 pos_x:-0.0999994 pox_y:37.2 reported level:1 pn:40 hgt:0.386706 wth:0.6 len:0.299999 tailLen:0.724266 spd:0 rate:1.14761
+2020-07-20 18:00:51, frameID:200, complex obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:17 hgt:0.144977 wth:0.3 len:0.299999 tailLen:0 spd:0
+2020-07-20 18:00:51, frameID:201, normal obj, type:2 level:1 pos_x:-0.0999994 pox_y:36.9 reported level:1 pn:49 hgt:0.376119 wth:0.899999 len:0.599998 tailLen:0.724266 spd:0 rate:1.14761
+2020-07-20 18:00:51, frameID:201, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:9 hgt:0.0730143 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:51, frameID:201, muddy obj, type:2 level:1 pos_x:-0.0999994 pox_y:37.2 reported level:3 pn:109 hgt:0.536754 wth:0.899999 len:0.599998 tailLen:0.599998spd:1.07448
+2020-07-20 18:00:51, frameID:202, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:8 hgt:0.061017 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:51, frameID:202, muddy obj, type:2 level:1 pos_x:-0.0999994 pox_y:36.9 reported level:3 pn:105 hgt:0.536754 wth:0.899999 len:0.899998 tailLen:0.299999spd:0.0620096
+2020-07-20 18:00:51, frameID:203, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:7 hgt:0.061017 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:51, frameID:203, muddy obj, type:2 level:1 pos_x:-0.0999994 pox_y:36.9 reported level:3 pn:108 hgt:0.536754 wth:1.2 len:0.899998 tailLen:0spd:0
+2020-07-20 18:00:52, frameID:204, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:6 hgt:0.061017 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:52, frameID:204, muddy obj, type:2 level:1 pos_x:-0.0999994 pox_y:36.9 reported level:3 pn:99 hgt:0.536754 wth:1.2 len:0.899998 tailLen:0spd:0
+2020-07-20 18:00:52, frameID:205, normal obj, type:2 level:1 pos_x:0.5 pox_y:36.6 reported level:1 pn:183 hgt:0.686203 wth:0.9 len:0.599998 tailLen:0 spd:0 rate:1.14761
+2020-07-20 18:00:52, frameID:205, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:6 hgt:0.061017 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:52, frameID:205, muddy obj, type:2 level:1 pos_x:-0.0999994 pox_y:36.9 reported level:3 pn:100 hgt:0.536754 wth:1.2 len:0.899998 tailLen:0spd:0
+2020-07-20 18:00:52, frameID:206, normal obj, type:2 level:1 pos_x:0.5 pox_y:36.3 reported level:1 pn:146 hgt:0.69647 wth:0.9 len:0.599998 tailLen:0 spd:0 rate:1.14761
+2020-07-20 18:00:52, frameID:206, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:5 hgt:0.0483718 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:52, frameID:206, muddy obj, type:2 level:1 pos_x:-0.0999994 pox_y:36.9 reported level:3 pn:100 hgt:0.536754 wth:1.2 len:0.899998 tailLen:0spd:0
+2020-07-20 18:00:52, frameID:207, normal obj, type:2 level:1 pos_x:0.5 pox_y:36.3 reported level:1 pn:214 hgt:0.704 wth:0.9 len:0.599998 tailLen:0 spd:0 rate:1.14761
+2020-07-20 18:00:52, frameID:207, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:5 hgt:0.0483718 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:52, frameID:207, muddy obj, type:2 level:1 pos_x:-0.0999994 pox_y:36.9 reported level:3 pn:100 hgt:0.536754 wth:1.2 len:0.899998 tailLen:0spd:0
+2020-07-20 18:00:53, frameID:208, normal obj, type:2 level:1 pos_x:0.8 pox_y:36.3 reported level:1 pn:297 hgt:0.720963 wth:0.6 len:0.299999 tailLen:0 spd:0 rate:1.14761
+2020-07-20 18:00:53, frameID:208, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:5 hgt:0.0483718 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:53, frameID:208, muddy obj, type:2 level:1 pos_x:-0.0999994 pox_y:36.9 reported level:3 pn:100 hgt:0.536754 wth:1.2 len:0.899998 tailLen:0spd:0
+2020-07-20 18:00:53, frameID:209, normal obj, type:2 level:1 pos_x:0.8 pox_y:36 reported level:1 pn:274 hgt:0.721635 wth:0.9 len:0.600002 tailLen:0.424266 spd:1.17678 rate:0.748304
+2020-07-20 18:00:53, frameID:209, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:5 hgt:0.0483718 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:53, frameID:209, muddy obj, type:2 level:1 pos_x:-0.0999994 pox_y:36.9 reported level:3 pn:100 hgt:0.536754 wth:1.2 len:0.899998 tailLen:0spd:0
+2020-07-20 18:00:53, frameID:210, normal obj, type:2 level:1 pos_x:0.8 pox_y:36 reported level:1 pn:191 hgt:0.71136 wth:0.9 len:0.600002 tailLen:0.424266 spd:1.17678 rate:0.748304
+2020-07-20 18:00:53, frameID:210, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:5 hgt:0.0483718 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:53, frameID:210, muddy obj, type:2 level:1 pos_x:-0.0999994 pox_y:36.9 reported level:3 pn:100 hgt:0.536754 wth:1.2 len:0.899998 tailLen:0spd:0
+half track wth from center:1.7
+overlay frame count:20
+2020-07-20 18:00:05, frameID:20, complex obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:8 hgt:0.0428357 wth:0.3 len:0.299999 tailLen:0 spd:0
+2020-07-20 18:00:05, frameID:21, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:15 hgt:0.0771623 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:05, frameID:21, muddy obj, type:5 level:0 pos_x:-1.3 pox_y:28.5 reported level:0 pn:6 hgt:0.0928903 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:05, frameID:22, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:16 hgt:0.0771623 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:05, frameID:22, muddy obj, type:5 level:0 pos_x:-1.3 pox_y:28.5 reported level:0 pn:6 hgt:0.0928903 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:06, frameID:23, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:15 hgt:0.0771623 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:06, frameID:23, muddy obj, type:5 level:0 pos_x:-1.3 pox_y:28.5 reported level:0 pn:6 hgt:0.0928903 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:06, frameID:24, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:17 hgt:0.0927858 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:06, frameID:25, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:15 hgt:0.0927858 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:06, frameID:26, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:17 hgt:0.0927858 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:07, frameID:27, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:16 hgt:0.0922985 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:07, frameID:28, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:16 hgt:0.0922985 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:07, frameID:29, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:15 hgt:0.0922985 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:07, frameID:30, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:15 hgt:0.0922985 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:08, frameID:31, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:14 hgt:0.0922985 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:08, frameID:32, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:14 hgt:0.0922985 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:08, frameID:33, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:15 hgt:0.0922985 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:08, frameID:34, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:15 hgt:0.0922985 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:09, frameID:35, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:14 hgt:0.0922985 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:09, frameID:36, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:13 hgt:0.0922985 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:09, frameID:37, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:14 hgt:0.0922985 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:09, frameID:38, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:13 hgt:0.0922985 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:10, frameID:39, muddy obj, type:5 level:0 pos_x:-1.6 pox_y:37.5 reported level:0 pn:12 hgt:0.0922985 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:10, frameID:41, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:11 hgt:0.0922985 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:10, frameID:42, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:10 hgt:0.0922985 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:11, frameID:43, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:10 hgt:0.0922985 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:11, frameID:44, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:8 hgt:0.0871129 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:11, frameID:45, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:8 hgt:0.0871129 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:11, frameID:46, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:6 hgt:0.0843539 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:12, frameID:47, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:6 hgt:0.0843539 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:12, frameID:48, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:7 hgt:0.0843539 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:12, frameID:49, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:7 hgt:0.0843539 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:12, frameID:50, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:7 hgt:0.0843539 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:13, frameID:51, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:9 hgt:0.0883512 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:13, frameID:52, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:10 hgt:0.0883512 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:13, frameID:53, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:8 hgt:0.0883512 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:14, frameID:54, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:8 hgt:0.0883512 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:14, frameID:55, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:7 hgt:0.0883512 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:14, frameID:56, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:7 hgt:0.0883512 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:14, frameID:57, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:6 hgt:0.0883512 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:15, frameID:58, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:7 hgt:0.0883512 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:15, frameID:59, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:6 hgt:0.0675697 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:15, frameID:61, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:8 hgt:0.0785475 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:16, frameID:62, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:9 hgt:0.0785475 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:16, frameID:63, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:9 hgt:0.0785475 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:16, frameID:64, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:9 hgt:0.0785475 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:16, frameID:65, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:10 hgt:0.0785475 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:17, frameID:66, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:10 hgt:0.0785475 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:17, frameID:67, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:11 hgt:0.0785475 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:17, frameID:68, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:9 hgt:0.0785475 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:17, frameID:69, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:10 hgt:0.0785475 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:18, frameID:70, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:10 hgt:0.0785475 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:18, frameID:71, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:9 hgt:0.070549 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:18, frameID:72, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:8 hgt:0.070549 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:18, frameID:73, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:9 hgt:0.070549 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:19, frameID:74, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:9 hgt:0.070549 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:19, frameID:75, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:9 hgt:0.070549 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:19, frameID:76, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:9 hgt:0.070549 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:19, frameID:77, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:10 hgt:0.070549 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:20, frameID:78, muddy obj, type:5 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:9 hgt:0.0686359 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:20, frameID:79, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:9 hgt:0.0686359 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:20, frameID:80, complex obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:12 hgt:0.146817 wth:0.3 len:0.299999 tailLen:0 spd:0
+2020-07-20 18:00:20, frameID:81, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:9 hgt:0.0419006 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:21, frameID:82, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:8 hgt:0.0419006 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:21, frameID:83, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:8 hgt:0.0419006 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:21, frameID:84, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:9 hgt:0.0419006 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:21, frameID:85, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:8 hgt:0.0419006 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:22, frameID:86, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:8 hgt:0.0419006 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:22, frameID:87, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:7 hgt:0.0419006 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:22, frameID:88, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:9 hgt:0.0518193 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:22, frameID:89, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:8 hgt:0.0518193 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:23, frameID:90, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:8 hgt:0.0518193 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:23, frameID:91, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:8 hgt:0.0518193 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:23, frameID:92, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:9 hgt:0.0551763 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:23, frameID:93, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:8 hgt:0.0551763 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:24, frameID:94, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:8 hgt:0.0551763 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:24, frameID:95, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:10 hgt:0.0551763 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:24, frameID:96, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:10 hgt:0.0551763 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:24, frameID:97, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:10 hgt:0.0768485 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:25, frameID:98, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:10 hgt:0.0768485 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:25, frameID:99, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:11 hgt:0.0768485 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:25, frameID:100, complex obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:20 hgt:0.151809 wth:0.3 len:0.299999 tailLen:0 spd:0
+2020-07-20 18:00:25, frameID:101, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:9 hgt:0.0768485 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:26, frameID:102, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:11 hgt:0.0768485 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:26, frameID:103, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:12 hgt:0.0768485 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:26, frameID:104, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:11 hgt:0.0768485 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:26, frameID:105, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:11 hgt:0.0768485 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:27, frameID:106, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:12 hgt:0.0768485 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:27, frameID:107, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:12 hgt:0.0768485 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:27, frameID:108, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:10 hgt:0.0768433 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:27, frameID:109, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:10 hgt:0.0768433 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:28, frameID:110, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:12 hgt:0.0768433 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:28, frameID:111, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:12 hgt:0.0768433 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:28, frameID:112, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:11 hgt:0.0768433 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:29, frameID:113, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:12 hgt:0.0768433 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:29, frameID:114, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:14 hgt:0.0768433 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:29, frameID:115, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:12 hgt:0.0764232 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:29, frameID:116, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0764232 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:30, frameID:117, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:14 hgt:0.0704646 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:30, frameID:118, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:15 hgt:0.0704646 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:30, frameID:119, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:14 hgt:0.0704646 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:30, frameID:120, complex obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:21 hgt:0.149848 wth:0.3 len:0.299999 tailLen:0 spd:0
+2020-07-20 18:00:31, frameID:121, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:17 hgt:0.0704646 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:31, frameID:122, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:16 hgt:0.0685534 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:31, frameID:123, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:15 hgt:0.0685534 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:31, frameID:124, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:16 hgt:0.0685534 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:32, frameID:125, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:17 hgt:0.0685534 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:32, frameID:126, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:17 hgt:0.0685534 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:32, frameID:127, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:17 hgt:0.0685534 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:32, frameID:128, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:19 hgt:0.0685534 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:33, frameID:129, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:20 hgt:0.0685534 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:33, frameID:130, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:18 hgt:0.0632863 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:33, frameID:131, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:18 hgt:0.0632863 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:33, frameID:132, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:19 hgt:0.0632863 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:34, frameID:133, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:18 hgt:0.0632863 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:34, frameID:134, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:16 hgt:0.0632863 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:34, frameID:135, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:17 hgt:0.0632863 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:34, frameID:136, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:16 hgt:0.0632863 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:35, frameID:137, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:15 hgt:0.0632863 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:35, frameID:138, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:14 hgt:0.0632863 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:35, frameID:139, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:15 hgt:0.0632863 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:35, frameID:140, complex obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:20 hgt:0.144248 wth:0.3 len:0.299999 tailLen:0 spd:0
+2020-07-20 18:00:36, frameID:141, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0450649 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:36, frameID:142, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0450649 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:36, frameID:143, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:15 hgt:0.0586777 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:36, frameID:144, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:14 hgt:0.0586777 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:37, frameID:145, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0586777 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:37, frameID:146, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0586777 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:37, frameID:147, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0586777 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:37, frameID:148, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:12 hgt:0.0724649 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:38, frameID:149, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:12 hgt:0.0724649 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:38, frameID:150, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:14 hgt:0.0724649 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:38, frameID:151, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0724649 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:38, frameID:152, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:12 hgt:0.0724649 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:39, frameID:153, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0724649 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:39, frameID:154, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0724649 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:39, frameID:155, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0724649 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:39, frameID:156, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0724649 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:40, frameID:157, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0724649 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:40, frameID:158, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0724649 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:40, frameID:159, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0775666 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:40, frameID:160, complex obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:24 hgt:0.145919 wth:0.3 len:0.299999 tailLen:0 spd:0
+2020-07-20 18:00:41, frameID:161, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0775666 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:41, frameID:162, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0775666 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:41, frameID:163, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:11 hgt:0.075881 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:41, frameID:164, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.075881 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:42, frameID:165, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:14 hgt:0.075881 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:42, frameID:166, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.075881 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:42, frameID:167, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.075881 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:43, frameID:168, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.075881 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:43, frameID:169, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:14 hgt:0.075881 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:43, frameID:170, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:12 hgt:0.0727158 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:43, frameID:171, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0727158 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:44, frameID:172, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0727158 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:44, frameID:173, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0727158 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:44, frameID:174, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0727158 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:44, frameID:175, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0727158 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:45, frameID:176, normal obj, type:2 level:1 pos_x:0.8 pox_y:36 reported level:1 pn:192 hgt:0.736083 wth:0.9 len:0.600002 tailLen:0.299999 spd:1.3195 rate:0.733616
+2020-07-20 18:00:45, frameID:176, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:14 hgt:0.0727158 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:45, frameID:177, normal obj, type:2 level:1 pos_x:0.8 pox_y:36.3 reported level:1 pn:306 hgt:0.713442 wth:0.9 len:0.599998 tailLen:0.299999 spd:1.3195 rate:0.733616
+2020-07-20 18:00:45, frameID:177, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:14 hgt:0.0727158 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:45, frameID:177, muddy obj, type:5 level:0 pos_x:1.1 pox_y:36.3 reported level:3 pn:9 hgt:0.0650311 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:45, frameID:178, normal obj, type:2 level:1 pos_x:0.5 pox_y:36.3 reported level:1 pn:306 hgt:0.705812 wth:0.9 len:0.899998 tailLen:0.724266 spd:0 rate:1.14761
+2020-07-20 18:00:45, frameID:178, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:14 hgt:0.0727158 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:45, frameID:178, muddy obj, type:5 level:0 pos_x:0.8 pox_y:36.3 reported level:3 pn:18 hgt:0.0753441 wth:0.6 len:0.599998 tailLen:0spd:0
+2020-07-20 18:00:45, frameID:179, normal obj, type:2 level:1 pos_x:0.5 pox_y:36.6 reported level:1 pn:178 hgt:0.67729 wth:0.9 len:0.599998 tailLen:0.724266 spd:0 rate:1.14761
+2020-07-20 18:00:45, frameID:179, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0684085 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:45, frameID:179, muddy obj, type:5 level:0 pos_x:0.8 pox_y:36.3 reported level:3 pn:21 hgt:0.186079 wth:0.6 len:0.599998 tailLen:0spd:0
+2020-07-20 18:00:46, frameID:180, normal obj, type:2 level:1 pos_x:0.200001 pox_y:36.9 reported level:1 pn:80 hgt:0.642205 wth:1.2 len:0.599998 tailLen:0.724266 spd:0 rate:1.14761
+2020-07-20 18:00:46, frameID:180, complex obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:16 hgt:0.144977 wth:0.3 len:0.299999 tailLen:0 spd:0
+2020-07-20 18:00:46, frameID:181, normal obj, type:2 level:1 pos_x:0.200001 pox_y:36.9 reported level:1 pn:45 hgt:0.372232 wth:0.599999 len:0.599998 tailLen:0.724266 spd:0 rate:1.14761
+2020-07-20 18:00:46, frameID:181, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0684085 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:46, frameID:181, muddy obj, type:5 level:0 pos_x:0.5 pox_y:36.3 reported level:3 pn:40 hgt:0.448729 wth:0.9 len:1.2 tailLen:0spd:0
+2020-07-20 18:00:46, frameID:182, normal obj, type:2 level:1 pos_x:-0.0999994 pox_y:37.2 reported level:1 pn:56 hgt:0.603094 wth:0.899999 len:0.599998 tailLen:0.724266 spd:0 rate:1.14761
+2020-07-20 18:00:46, frameID:182, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0632458 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:46, frameID:182, muddy obj, type:5 level:0 pos_x:-0.0999994 pox_y:36.3 reported level:3 pn:57 hgt:0.448729 wth:1.5 len:1.5 tailLen:0spd:0
+2020-07-20 18:00:46, frameID:183, normal obj, type:2 level:1 pos_x:-0.0999994 pox_y:37.5 reported level:1 pn:38 hgt:0.832474 wth:0.6 len:0.299999 tailLen:2.22426 spd:1.17806 rate:0.216222
+2020-07-20 18:00:46, frameID:183, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:14 hgt:0.0632458 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:46, frameID:183, muddy obj, type:5 level:0 pos_x:-0.0999994 pox_y:36.3 reported level:3 pn:79 hgt:0.455572 wth:1.5 len:1.5 tailLen:0spd:0
+2020-07-20 18:00:47, frameID:184, normal obj, type:2 level:1 pos_x:-0.4 pox_y:37.5 reported level:1 pn:40 hgt:0.882765 wth:0.6 len:0.299999 tailLen:2.22426 spd:1.17806 rate:0.216222
+2020-07-20 18:00:47, frameID:184, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.061789 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:47, frameID:184, muddy obj, type:5 level:0 pos_x:-0.0999994 pox_y:36.3 reported level:3 pn:95 hgt:0.455572 wth:1.5 len:1.5 tailLen:0spd:0
+2020-07-20 18:00:47, frameID:185, normal obj, type:2 level:1 pos_x:-0.7 pox_y:37.5 reported level:1 pn:56 hgt:0.873368 wth:0.9 len:0.600002 tailLen:2.22426 spd:1.17806 rate:0.216222
+2020-07-20 18:00:47, frameID:185, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:12 hgt:0.061789 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:47, frameID:185, muddy obj, type:5 level:0 pos_x:-0.0999994 pox_y:36.3 reported level:3 pn:95 hgt:0.455572 wth:1.5 len:1.5 tailLen:0spd:0
+2020-07-20 18:00:47, frameID:186, normal obj, type:2 level:1 pos_x:-1 pox_y:37.5 reported level:1 pn:40 hgt:0.825988 wth:0.6 len:0.600002 tailLen:3.12426 spd:0 rate:0.435844
+2020-07-20 18:00:47, frameID:186, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.061789 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:47, frameID:186, muddy obj, type:5 level:0 pos_x:-0.0999994 pox_y:36.3 reported level:3 pn:95 hgt:0.455572 wth:1.5 len:1.5 tailLen:0spd:0
+2020-07-20 18:00:47, frameID:187, normal obj, type:2 level:1 pos_x:-1.3 pox_y:37.5 reported level:1 pn:54 hgt:0.83081 wth:0.899999 len:0.900002 tailLen:3.12426 spd:0 rate:0.435844
+2020-07-20 18:00:47, frameID:187, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:15 hgt:0.0748205 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:47, frameID:187, muddy obj, type:5 level:0 pos_x:-0.0999994 pox_y:36.3 reported level:3 pn:95 hgt:0.455572 wth:1.5 len:1.5 tailLen:0spd:0
+2020-07-20 18:00:48, frameID:188, normal obj, type:2 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:75 hgt:0.895267 wth:1.2 len:0.600002 tailLen:3.12426 spd:0 rate:0.435844
+2020-07-20 18:00:48, frameID:188, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:15 hgt:0.0748205 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:48, frameID:188, muddy obj, type:5 level:0 pos_x:-0.0999994 pox_y:36.3 reported level:3 pn:95 hgt:0.455572 wth:1.5 len:1.5 tailLen:0spd:0
+2020-07-20 18:00:48, frameID:189, normal obj, type:2 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:85 hgt:0.874068 wth:1.2 len:0.600002 tailLen:3.12426 spd:0 rate:0.435844
+2020-07-20 18:00:48, frameID:189, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0748205 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:48, frameID:189, muddy obj, type:5 level:0 pos_x:-0.0999994 pox_y:36.3 reported level:3 pn:95 hgt:0.455572 wth:1.5 len:1.5 tailLen:0spd:0
+2020-07-20 18:00:48, frameID:190, normal obj, type:2 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:93 hgt:0.907338 wth:1.2 len:0.600002 tailLen:3.12426 spd:0 rate:0.435844
+2020-07-20 18:00:48, frameID:190, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:15 hgt:0.0748205 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:48, frameID:190, muddy obj, type:5 level:0 pos_x:-0.0999994 pox_y:36.3 reported level:3 pn:95 hgt:0.455572 wth:1.5 len:1.5 tailLen:0spd:0
+2020-07-20 18:00:48, frameID:191, normal obj, type:2 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:75 hgt:0.901577 wth:0.899999 len:0.600002 tailLen:3.12426 spd:0 rate:0.435844
+2020-07-20 18:00:48, frameID:191, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:14 hgt:0.0730143 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:48, frameID:191, muddy obj, type:5 level:0 pos_x:-0.0999994 pox_y:36.3 reported level:3 pn:95 hgt:0.455572 wth:1.5 len:1.5 tailLen:0spd:0
+2020-07-20 18:00:49, frameID:192, normal obj, type:2 level:1 pos_x:-1.6 pox_y:37.5 reported level:1 pn:71 hgt:0.868126 wth:1.2 len:0.600002 tailLen:3.12426 spd:0 rate:0.435844
+2020-07-20 18:00:49, frameID:192, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:14 hgt:0.0730143 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:49, frameID:192, muddy obj, type:5 level:0 pos_x:-0.0999994 pox_y:36.3 reported level:3 pn:95 hgt:0.455572 wth:1.5 len:1.5 tailLen:0spd:0
+2020-07-20 18:00:49, frameID:193, normal obj, type:2 level:1 pos_x:-1.3 pox_y:37.8 reported level:1 pn:63 hgt:0.784212 wth:0.899999 len:0.299999 tailLen:3.12426 spd:0 rate:0.435844
+2020-07-20 18:00:49, frameID:193, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0730143 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:49, frameID:193, muddy obj, type:5 level:0 pos_x:-0.0999994 pox_y:36.3 reported level:3 pn:95 hgt:0.455572 wth:1.5 len:1.5 tailLen:0spd:0
+2020-07-20 18:00:49, frameID:194, normal obj, type:2 level:1 pos_x:-1 pox_y:37.5 reported level:1 pn:57 hgt:0.881439 wth:0.9 len:0.600002 tailLen:3.12426 spd:0 rate:0.435844
+2020-07-20 18:00:49, frameID:194, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:13 hgt:0.0730143 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:49, frameID:194, muddy obj, type:5 level:0 pos_x:-0.0999994 pox_y:36.3 reported level:3 pn:95 hgt:0.455572 wth:1.5 len:1.5 tailLen:0spd:0
+2020-07-20 18:00:49, frameID:195, normal obj, type:2 level:1 pos_x:-1 pox_y:37.8 reported level:1 pn:54 hgt:0.742382 wth:0.9 len:0.299999 tailLen:3.12426 spd:0 rate:0.435844
+2020-07-20 18:00:49, frameID:195, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:12 hgt:0.0730143 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:49, frameID:195, muddy obj, type:5 level:0 pos_x:-0.0999994 pox_y:36.3 reported level:3 pn:95 hgt:0.455572 wth:1.5 len:1.5 tailLen:0spd:0
+2020-07-20 18:00:50, frameID:196, normal obj, type:2 level:1 pos_x:-0.7 pox_y:37.5 reported level:1 pn:57 hgt:0.736586 wth:0.6 len:0.600002 tailLen:3.12426 spd:0 rate:0.435844
+2020-07-20 18:00:50, frameID:196, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:11 hgt:0.0730143 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:50, frameID:196, muddy obj, type:5 level:0 pos_x:-0.0999994 pox_y:36.3 reported level:3 pn:95 hgt:0.533016 wth:1.5 len:1.5 tailLen:0spd:0
+2020-07-20 18:00:50, frameID:197, normal obj, type:2 level:1 pos_x:-0.7 pox_y:37.5 reported level:1 pn:48 hgt:0.811354 wth:0.9 len:0.600002 tailLen:2.22426 spd:1.17806 rate:0.216222
+2020-07-20 18:00:50, frameID:197, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:10 hgt:0.0730143 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:50, frameID:197, muddy obj, type:5 level:1 pos_x:-0.0999994 pox_y:36.6 reported level:3 pn:85 hgt:0.533016 wth:1.2 len:1.2 tailLen:0spd:0
+2020-07-20 18:00:50, frameID:198, normal obj, type:2 level:1 pos_x:-0.4 pox_y:37.2 reported level:1 pn:35 hgt:0.870456 wth:0.6 len:0.599998 tailLen:0.724266 spd:0 rate:1.14761
+2020-07-20 18:00:50, frameID:198, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:10 hgt:0.0730143 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:50, frameID:198, muddy obj, type:2 level:1 pos_x:-0.0999994 pox_y:36.6 reported level:3 pn:87 hgt:0.533016 wth:1.2 len:1.2 tailLen:0spd:0
+2020-07-20 18:00:50, frameID:199, normal obj, type:2 level:1 pos_x:-0.0999994 pox_y:37.2 reported level:1 pn:33 hgt:0.848051 wth:0.6 len:0.599998 tailLen:0.724266 spd:0 rate:1.14761
+2020-07-20 18:00:50, frameID:199, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:10 hgt:0.0730143 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:50, frameID:199, muddy obj, type:2 level:1 pos_x:-0.0999994 pox_y:36.9 reported level:3 pn:101 hgt:0.533016 wth:0.899999 len:0.899998 tailLen:0.299999spd:0.0620096
+2020-07-20 18:00:51, frameID:200, normal obj, type:2 level:1 pos_x:-0.0999994 pox_y:37.2 reported level:1 pn:40 hgt:0.386706 wth:0.6 len:0.299999 tailLen:0.724266 spd:0 rate:1.14761
+2020-07-20 18:00:51, frameID:200, complex obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:17 hgt:0.144977 wth:0.3 len:0.299999 tailLen:0 spd:0
+2020-07-20 18:00:51, frameID:201, normal obj, type:2 level:1 pos_x:-0.0999994 pox_y:36.9 reported level:1 pn:49 hgt:0.376119 wth:0.899999 len:0.599998 tailLen:0.724266 spd:0 rate:1.14761
+2020-07-20 18:00:51, frameID:201, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:9 hgt:0.0730143 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:51, frameID:201, muddy obj, type:2 level:1 pos_x:-0.0999994 pox_y:37.2 reported level:3 pn:109 hgt:0.536754 wth:0.899999 len:0.599998 tailLen:0.599998spd:1.07448
+2020-07-20 18:00:51, frameID:202, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:8 hgt:0.061017 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:51, frameID:202, muddy obj, type:2 level:1 pos_x:-0.0999994 pox_y:36.9 reported level:3 pn:105 hgt:0.536754 wth:0.899999 len:0.899998 tailLen:0.299999spd:0.0620096
+2020-07-20 18:00:51, frameID:203, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:7 hgt:0.061017 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:51, frameID:203, muddy obj, type:2 level:1 pos_x:-0.0999994 pox_y:36.9 reported level:3 pn:108 hgt:0.536754 wth:1.2 len:0.899998 tailLen:0spd:0
+2020-07-20 18:00:52, frameID:204, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:6 hgt:0.061017 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:52, frameID:204, muddy obj, type:2 level:1 pos_x:-0.0999994 pox_y:36.9 reported level:3 pn:99 hgt:0.536754 wth:1.2 len:0.899998 tailLen:0spd:0
+2020-07-20 18:00:52, frameID:205, normal obj, type:2 level:1 pos_x:0.5 pox_y:36.6 reported level:1 pn:183 hgt:0.686203 wth:0.9 len:0.599998 tailLen:0 spd:0 rate:1.14761
+2020-07-20 18:00:52, frameID:205, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:6 hgt:0.061017 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:52, frameID:205, muddy obj, type:2 level:1 pos_x:-0.0999994 pox_y:36.9 reported level:3 pn:100 hgt:0.536754 wth:1.2 len:0.899998 tailLen:0spd:0
+2020-07-20 18:00:52, frameID:206, normal obj, type:2 level:1 pos_x:0.5 pox_y:36.3 reported level:1 pn:146 hgt:0.69647 wth:0.9 len:0.599998 tailLen:0 spd:0 rate:1.14761
+2020-07-20 18:00:52, frameID:206, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:5 hgt:0.0483718 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:52, frameID:206, muddy obj, type:2 level:1 pos_x:-0.0999994 pox_y:36.9 reported level:3 pn:100 hgt:0.536754 wth:1.2 len:0.899998 tailLen:0spd:0
+2020-07-20 18:00:52, frameID:207, normal obj, type:2 level:1 pos_x:0.5 pox_y:36.3 reported level:1 pn:214 hgt:0.704 wth:0.9 len:0.599998 tailLen:0 spd:0 rate:1.14761
+2020-07-20 18:00:52, frameID:207, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:5 hgt:0.0483718 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:52, frameID:207, muddy obj, type:2 level:1 pos_x:-0.0999994 pox_y:36.9 reported level:3 pn:100 hgt:0.536754 wth:1.2 len:0.899998 tailLen:0spd:0
+2020-07-20 18:00:53, frameID:208, normal obj, type:2 level:1 pos_x:0.8 pox_y:36.3 reported level:1 pn:297 hgt:0.720963 wth:0.6 len:0.299999 tailLen:0 spd:0 rate:1.14761
+2020-07-20 18:00:53, frameID:208, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:5 hgt:0.0483718 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:53, frameID:208, muddy obj, type:2 level:1 pos_x:-0.0999994 pox_y:36.9 reported level:3 pn:100 hgt:0.536754 wth:1.2 len:0.899998 tailLen:0spd:0
+2020-07-20 18:00:53, frameID:209, normal obj, type:2 level:1 pos_x:0.8 pox_y:36 reported level:1 pn:274 hgt:0.721635 wth:0.9 len:0.600002 tailLen:0.424266 spd:1.17678 rate:0.748304
+2020-07-20 18:00:53, frameID:209, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:5 hgt:0.0483718 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:53, frameID:209, muddy obj, type:2 level:1 pos_x:-0.0999994 pox_y:36.9 reported level:3 pn:100 hgt:0.536754 wth:1.2 len:0.899998 tailLen:0spd:0
+2020-07-20 18:00:53, frameID:210, normal obj, type:2 level:1 pos_x:0.8 pox_y:36 reported level:1 pn:191 hgt:0.71136 wth:0.9 len:0.600002 tailLen:0.424266 spd:1.17678 rate:0.748304
+2020-07-20 18:00:53, frameID:210, muddy obj, type:5 level:3 pos_x:-1.6 pox_y:37.5 reported level:3 pn:5 hgt:0.0483718 wth:0.3 len:0.299999 tailLen:0spd:0
+2020-07-20 18:00:53, frameID:210, muddy obj, type:2 level:1 pos_x:-0.0999994 pox_y:36.9 reported level:3 pn:100 hgt:0.536754 wth:1.2 len:0.899998 tailLen:0spd:0
